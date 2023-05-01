@@ -38,7 +38,7 @@ Add me as admin in your group and start filtering :)
 """
 
 AboutTxT = """
-⭕️ My Name : AUTO AI 2.0
+⭕️ My Name : AUTO Filter 2.0
 ⭕️ Developers : @samvrut 
 ⭕️ Upgrader : @Mo_Tech_YT
 ⭕️ Language : Python3
