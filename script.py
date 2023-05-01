@@ -34,12 +34,12 @@ Add me as admin in your group and start filtering :)
 /id  -  Shows ID information
 /info userid  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
-© @Mo_Tech_YT
+© @samvrut
 """
 
 AboutTxT = """
-⭕️ My Name : TroJanz Filter Bot</b>
-⭕️ Developers : @TroJanzHEX 
+⭕️ My Name : AUTO AI 2.0
+⭕️ Developers : @samvrut 
 ⭕️ Upgrader : @Mo_Tech_YT
 ⭕️ Language : Python3
 ⭕️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
